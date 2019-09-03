@@ -4,8 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "ejs": "^2.7.1",
     "express": "^4.17.1",
-    "web3": "^1.2.1"
+    "web3": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
